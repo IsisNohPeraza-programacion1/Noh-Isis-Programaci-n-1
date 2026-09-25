@@ -17,4 +17,4 @@ precio = 100
 total = precio + (precio * IVA)
 print(total)    
 
-print (type (edad))
+print (type (IVA))
